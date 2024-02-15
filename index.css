@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: orange;
+}
+
+#homescore, #guestscore {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: red;
+    border: solid 3px black;
+    border-radius: 5px;
+    color: azure
+}
+
+#newgame{
+    background: green;
+    margin: 15px
+}
+
+#fouls {
+    background: white;
+    margin-bottom: 10px;
+    color: black
+}
+
